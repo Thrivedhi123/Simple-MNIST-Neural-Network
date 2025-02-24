@@ -14,7 +14,7 @@ The neural network has two layers:
 - **Output Layer:** 10 neurons with Softmax activation (one for each digit 0-9)
 
 ## Results
-After training for 100 iterations with a learning rate of 0.1, the model achieves an accuracy of around 85% on the dataset.
+After training for 100 iterations with a learning rate of 0.1, the model achieves an accuracy of around 81.7% on the dataset.
 
 link to downllaod dataset : https://www.kaggle.com/competitions/digit-recognizer
 
