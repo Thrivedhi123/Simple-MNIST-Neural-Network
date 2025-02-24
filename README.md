@@ -18,3 +18,4 @@ After training for 100 iterations with a learning rate of 0.1, the model achieve
 
 link to downllaod dataset : https://www.kaggle.com/competitions/digit-recognizer
 
+check the math equations in the image provided
